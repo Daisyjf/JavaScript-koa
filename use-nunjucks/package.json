@@ -1,0 +1,22 @@
+{
+    "name": "use-junjucks",
+    "version": "1.0.0",
+    "description": "use-junjucks example ",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "koa",
+        "junjucks"
+    ],
+    "author": "Daisyjf",
+    "license": "Apache-2.0",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:Daisyjf/JavaScript-koa.git"
+    },
+    "dependencies": {
+        "nunjucks": "^3.2.0"
+    }
+}
